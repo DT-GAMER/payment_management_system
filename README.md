@@ -7,7 +7,7 @@
 
 ---
 
-The goal of the project is to create a complete payment system with all the basic functionality.  
+The goal of the project is to create a robust payment management system using Java and Spring Boot, encompassing essential functionalities for secure transaction processing and user-friendly payment handling.  
 I deployed the application on the hosting.     
 `Go to this address:` https://payment-management-system.herokuapp.com/  
 

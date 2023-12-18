@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * The interface provides methods for retrieving data for an Account entity
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public interface AccountDao {
 

@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * The interface provides methods for retrieving data for a User entity
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public interface UserDao {
 

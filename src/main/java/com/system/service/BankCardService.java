@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * Provides service methods for BankCardDao. Layout between DAO and Command.
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class BankCardService {
 

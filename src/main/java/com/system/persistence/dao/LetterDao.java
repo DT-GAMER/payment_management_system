@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * The interface provides methods for retrieving data for a Letter entity
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public interface LetterDao {
 

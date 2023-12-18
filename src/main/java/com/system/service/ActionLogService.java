@@ -12,7 +12,7 @@ import java.util.TimeZone;
 /**
  * Provides service methods for ActionLogDao. Layout between DAO and Command.
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class ActionLogService {
 

@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * Realizes methods from LetterDao interface
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class LetterDaoImpl implements LetterDao {
 

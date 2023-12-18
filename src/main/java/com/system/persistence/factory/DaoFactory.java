@@ -6,7 +6,7 @@ import com.system.persistence.dao.impl.*;
 /**
  * Classes that returns new instances of data access objects (DAO)
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class DaoFactory {
 

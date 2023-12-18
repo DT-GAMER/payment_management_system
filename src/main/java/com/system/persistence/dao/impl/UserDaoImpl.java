@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Realizes methods from UserDao interface
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class UserDaoImpl implements UserDao {
 

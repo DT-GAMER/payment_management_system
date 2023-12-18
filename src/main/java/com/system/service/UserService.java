@@ -15,7 +15,7 @@ import java.util.TimeZone;
 /**
  * Provides service methods for UserDao. Layout between DAO and Command.
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class UserService {
 

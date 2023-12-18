@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * Realizes methods from PaymentDao interface
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class PaymentDaoImpl implements PaymentDao {
 

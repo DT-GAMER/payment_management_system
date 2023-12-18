@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * Realizes methods from ActionLogDao interface
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class ActionLogDaoImpl implements ActionLogDao {
 

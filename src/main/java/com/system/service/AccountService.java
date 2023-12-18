@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Provides service methods for AccountDao. Layout between DAO and Command.
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class AccountService {
 

@@ -1,0 +1,7 @@
+com/system/dao/TestPaymentDao.class
+com/system/service/TestAccountService.class
+com/system/dao/TestAccountDao.class
+com/system/dao/TestUserDao.class
+com/system/service/TestUserService.class
+com/system/service/TestPaymentService.class
+com/system/dao/TestBankCardDao.class

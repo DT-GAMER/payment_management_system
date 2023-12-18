@@ -18,7 +18,7 @@ import java.util.TimeZone;
 /**
  * Provides service methods for PaymentDao. Layout between DAO and Command.
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class PaymentService {
 

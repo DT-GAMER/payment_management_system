@@ -15,7 +15,7 @@ import java.sql.SQLException;
 /**
  * This servlet implementation class HttpServlet
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 @WebServlet("/")
 public class Controller extends HttpServlet {

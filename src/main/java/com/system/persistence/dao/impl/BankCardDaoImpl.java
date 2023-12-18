@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Realizes methods from BankCardDao interface
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class BankCardDaoImpl implements BankCardDao {
 

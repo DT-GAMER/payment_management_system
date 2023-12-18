@@ -16,7 +16,7 @@ import java.sql.SQLException;
 /**
  * Class provides access to the database by obtaining a Connection or Datasource
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class ConnectionPool {
 

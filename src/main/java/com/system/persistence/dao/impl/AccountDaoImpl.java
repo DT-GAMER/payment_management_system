@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Realizes methods from AccountDao interface
  *
- * @author Syniuk Valentyn
+ * @author Abakpa Dominic
  */
 public class AccountDaoImpl implements AccountDao {
 
